@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Aula4",
+			"path": "..\\..\\..\\PlatformIO\\Projects\\Aula4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DAW-2022"
+	}
+}
